@@ -1,5 +1,10 @@
 ## Hi there👋
 This GitHub page is a work in progress :)
+
+Always learning and improving, with a strong focus on defensive security solutions and cloud security. 
+Ready to take on new challenges and grow into a skilled professional. 
+Future employers can expect someone who’s adaptable, technically capable, and genuinely enjoys solving problems! 
+
 <!--
 **hem111je/hem111je** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
