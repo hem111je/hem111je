@@ -1,4 +1,5 @@
 ## Hi there👋
+If you are looking for some proof of my work, kindly check the "portfolio"-repo.
 This GitHub page is a work in progress :)
 
 Always learning and improving, with a strong focus on defensive security solutions and cloud security. 
