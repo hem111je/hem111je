@@ -1,7 +1,7 @@
 ## Hi there👋
 If you are looking for some proof of my work, kindly check the pinned "portfolio"-repo.
 
-From the other pinned repo you will find my webpage-development course's submissions.
+From the other pinned repo you will find my website-development course's submissions.
 
 This GitHub page is a work in progress :)
 
